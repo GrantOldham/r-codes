@@ -12,16 +12,16 @@ The project uses data from:
 - shift schedule classification
 
 r version 4.2.0 or above and requires packages:
--tidyverse
--ggplot2
--dplyr
--tidyr
--lme4
--lmerTest
--emmeans
--DiagrammeR
--DiagrammeRsvg
--rsvg
+- tidyverse
+- ggplot2
+- dplyr
+- tidyr
+- lme4
+- lmerTest
+- emmeans
+- DiagrammeR
+- DiagrammeRsvg
+- rsvg
 
 Figure Outputs:
 - Figure 1-4 24-hour profiles of physical activity, sleep, and glucose
